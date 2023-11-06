@@ -1,0 +1,46 @@
+.start {
+    background-image: url("images/hauntedHouse.jpg");
+    background-size: cover;
+}
+button {
+    border: 5px solid #000;
+    border-radius: 10px;
+    background-color: #FF9100;
+    color: #fff;
+}
+.enterButton {
+    position: absolute;
+    left:57%;
+    top:80%;
+}
+.stayButton {
+    position: absolute;
+    left:10%;
+    top:85%;
+}
+
+.lobby {
+    background-image: url("images/lobby.jpg");
+    background-size:cover;
+}
+
+.restart {
+    position: absolute;
+    /* top:100%; */
+    /* left:35%; */
+    width:10%;
+    height:10%;
+
+
+}
+
+.graveyard {
+    background-image: url("images/graveyard.jpg");
+    background-size:cover;
+}
+
+.escape {
+    position: absolute;
+    left:57%;
+    top:80%;
+}
