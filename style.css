@@ -1,0 +1,135 @@
+.start {
+    background-image: url("images/hauntedHouse.jpg");
+    background-size: cover;
+}
+button {
+    border: 5px solid #000;
+    border-radius: 10px;
+    background-color: #FF9100;
+    color: #fff;
+}
+.enterButton {
+    position: absolute;
+    left:57%;
+    top:80%;
+}
+.stayButton {
+    position: absolute;
+    left:10%;
+    top:85%;
+}
+
+.lobby {
+    background-image: url("images/lobby.jpg");
+    background-size:cover;
+}
+
+.enterHall {
+    position: absolute;
+    left:46%;
+    top:65%;
+}
+
+.restart {
+    position: absolute;
+    /* top:100%; */
+    /* left:35%; */
+    width:10%;
+    height:10%;
+
+
+}
+
+.graveyard {
+    background-image: url("images/graveyard.jpg");
+    background-size:cover;
+}
+
+.escape {
+   position:absolute;
+   width:10%;
+   height:10%;
+   top:50%;
+   left:42%;
+    
+}
+
+.hallway {
+    background-image: url("images/hallway.jpg");
+    background-size:cover;
+}
+
+.enterDeath1{
+    position:absolute;
+    left:30%;
+    top:60%;
+    background-color:black;
+}
+
+.death1{
+    background-image:url("images/figure1.jpg");
+}
+
+.enterBasement {
+    position:absolute;
+    left:60%;
+    top:50%;
+    background-color:black;
+}
+.basement {
+    background-image:url("images/basement.jpg");
+    background-size:cover;
+}
+
+.conWalk {
+    position:absolute;
+    left:40%;
+    top:70%;
+    background-color:black;
+}
+
+.cat {
+    background-image:url("images/blackCat.jpg");
+    background-size:cover;
+}
+
+.followCat{
+    position:absolute;
+    left:70%;
+    top:50%;
+    background-color:black;
+}
+
+
+.winOne {
+    background-image:url("images/blackCat2.jpg");
+    background-size:cover;
+
+}
+
+.ignoreCat {
+    position:absolute;
+    left:40%;
+    top:50%;
+    background-color:black;
+}
+
+.death2 {
+    background-color:black;
+}
+
+.enterBathroom {
+    position:absolute;
+    left:20%;
+    top:50%;
+    background-color:black;
+}
+
+.bathroom {
+    background-image: url("images/bathroom.jpg");
+    background-size:cover;
+}
+
+
+
+
